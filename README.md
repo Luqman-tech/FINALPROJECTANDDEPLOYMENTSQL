@@ -1,4 +1,4 @@
-# Library Management System (MySQL)
+ Library Management System (MySQL)
 
 This project implements a complete relational database to manage a library's books, authors, members, and loans.
 
@@ -18,6 +18,9 @@ This project implements a complete relational database to manage a library's boo
 2. Clone or download this repo
 3. Open MySQL Workbench or your preferred MySQL client
 4. Run the `library.sql` script to create the database and all tables
+
+### ERD Link
+https://drive.google.com/file/d/1hqoTY_-fbePfiMT0xcOfkAp_99CZr66n/view?usp=sharing
 
 ```sql
 SOURCE path/to/library.sql;
